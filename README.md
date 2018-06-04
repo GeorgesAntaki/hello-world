@@ -1,3 +1,3 @@
 # hello-world
 Just another repository 
-Congratulationsto Microsoft for acquiring this amazing platform
+Congratulations to Microsoft for acquiring this amazing platform
